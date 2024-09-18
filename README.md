@@ -2,7 +2,7 @@
 
 This project is an online sports store that allows users to add products to the shopping cart and manage favorites. 
 
-The application is built using React, Redux, styled-components, TypeScript, ReactDOM, and RTK Query.
+The application is built using React, Redux Toolkit, styled-components, TypeScript, ReactDOM, and RTK Query.
 
 ## Available Scripts
 
